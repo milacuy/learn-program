@@ -1,0 +1,9 @@
+Roadmap Front End Developer
+-CS50
+-Git & Github
+- HTML
+- CSS
+- JavaScript
+- Portfolio
+- Kerja / Intern
+- Framework React
