@@ -5,7 +5,9 @@ Roadmap Front End Developer
 - CSS
 - JavaScript
 - Portfolio
-- Kerja / Intern
 - Framework React
 - Lanjutan Back End
 - Node JS
+- Authentification / Authorization
+- Database mongo DB
+- Kerja Fullstack Developer
