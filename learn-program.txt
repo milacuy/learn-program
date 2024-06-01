@@ -7,3 +7,5 @@ Roadmap Front End Developer
 - Portfolio
 - Kerja / Intern
 - Framework React
+- Lanjutan Back End
+- Node JS
