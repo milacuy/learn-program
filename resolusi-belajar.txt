@@ -1,0 +1,5 @@
+Halo, salam kenal.
+
+Berikut resolusi belajar saya.
+ - Saya ingin membuat website dengan menggunakan framework JavaScript
+ - Ingin bekerja remote sebagai Front End Developer
